@@ -10,7 +10,8 @@
 - 一开始画了一些，发现，多么精美，没用，什么一缩小就是‘一坨遭’；而是，越简单越好，线条越简单，色彩越简单，在小字体下，显示效果越好。
 - 经过使用发现不错，放到github上来备份。
 
-![](https://raw.githubusercontent.com/Leeatmy/macOS_files_icns/master/Screenshot/1.png?raw=true)
+![更美了吧](https://raw.githubusercontent.com/Leeatmy/macOS_files_icns/master/Screenshot/1.png?raw=true)
+
 
 ## 设计
 > 去除 导致 ‘一坨遭’ 的原因 ‘文字+复杂图形’
@@ -41,7 +42,15 @@
 
 ## 安装
 
-> 每次macOS更新都要做一遍，不过反正也要从安装「TotalFinder」，执行「Monolingual」删除无用语言档案，都已经习惯了。
+- 除苹果macOS内置的App外的，IINA Keka DevonThinkPro 等等，都不需要关闭「SIP」直接找到相关的App，覆盖原图标，即可。
+
+> 例如 `Keka.app`
+
+```
+Macintosh HD⁩ ▸ ⁨应用程序⁩ ▸ ⁨Keka.app⁩ ▸ ⁨Contents⁩ ▸ ⁨Resources⁩
+```
+
+- 苹果macOS内置的App，每次macOS更新都要做一遍，不过反正也要从安装「TotalFinder」，执行「Monolingual」删除无用语言档案，都已经习惯了。
 
 #### 需要 暂时 关闭「SIP」
 关机 同时按住`Command+R`从起
@@ -74,6 +83,3 @@ Macintosh HD⁩ ▸ ⁨应用程序⁩ ▸ ⁨文本编辑.app⁩ ▸ ⁨Content
 ```
 csrutil enable
 ```
-
-
-
